@@ -1,0 +1,2 @@
+﻿Le langage C est um langage de programmation tres puissant.
+Le langage C permite la gestion de la memoire avec des pointeurs!
